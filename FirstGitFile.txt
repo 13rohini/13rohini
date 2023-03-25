@@ -2,3 +2,7 @@ Hello
 This is a new file.
 I have created this on the desktop via terminal.
 I want to commit this and upload this into 13rohini github repository.
+So I have added and installed VSCode and GIt Desktop app.
+I hope this works this time
+I struggled a bit to figure out how to get the web copy syncronised with the local git copy.
+Hope this works 
