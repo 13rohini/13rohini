@@ -1,0 +1,4 @@
+Hello
+This is a new file.
+I have created this on the desktop via terminal.
+I want to commit this and upload this into 13rohini github repository.
