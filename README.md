@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohini
 - 👀 I’m interested in applying technology to enable Digital Transformation in the AEC sector
 - 🌱 I’m currently learning all things Digital that could help me in my journey
-- 💞️ I’m looking to collaborate on Digital transformation initiatives - globally in the AEC sector
+- 💞️ I’m looking to collaborate on Digital transformation open source projects / initiatives - globally in the AEC sector
 - 📫 You can reach me by dropping an email to rohini.rmk@gmail.com
 
 <!---
